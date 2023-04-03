@@ -14,7 +14,7 @@ The purpose of this project is to perform an analysis of Amazon reviews. It is s
 
 ### Code
 
-[vine_review_analysis](./vine_review_analysis.ipynb) - I used PySpark to complete the analysis. This must be used within `Google Colab` if it needs to be run again.
+**[vine_review_analysis.ipynb](./vine_review_analysis.ipynb)** - I used PySpark to complete the analysis. This must be used within `Google Colab` if it needs to be run again.
 
 ### 5-Star Review Analysis
 
@@ -43,4 +43,4 @@ At this point, the data does not show that there is any positive bias for review
 
 ![all_stars_summary](img/all_stars_summary.png)
 
-Comparing the percentages of each level of star-rating, we can see that this data does support the idea that there is positive bias for reviews for reviews in the Vine program. For this dataset, the Vine program boasts a higher percentage of star-rating reviews above 2-star.
+Comparing the percentages of each level of star-rating, we can see that this data does support the idea that there is positive bias for reviews in the Vine program. For this dataset, the Vine program boasts a higher percentage of star-rating reviews above 2-star.
